@@ -80,7 +80,7 @@ const Features = () => {
                         <div className="ml-4">
                           <h4 className="text-lg font-medium leading-6 text-blue-700">
                             Innovative Technology Integration
-                          </h4>
+                          </h4>                       
                           <p className="mt-2 ">
                             Seamlessly integrate cutting-edge technologies like
                             AI, IoT, and cloud computing. Automate tasks,
