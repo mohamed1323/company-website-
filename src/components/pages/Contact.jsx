@@ -69,7 +69,7 @@ const Contact = () => {
                       </div>
                       <div class="w-full">
                         <h4 class="text-dark mb-1 text-xl font-bold">
-                          Our Location
+                          Our Location in
                         </h4>
                         <p class="text-body-color text-base">
                           mogadishu, somalia
