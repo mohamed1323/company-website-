@@ -94,7 +94,7 @@ function Hero() {
                                 class="relative z-10 inline-block pt-11 lg:pt-0 mt-6"
                                 >
                                 <img
-                                    src={heroImage}
+                                   src={heroImage}
                                     alt="hero"
                                     class="max-w-full lg:ml-auto rounded-l-[20%] "
                                 />
