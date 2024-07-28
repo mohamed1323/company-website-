@@ -4,7 +4,7 @@ import Footer from "../Footer";
 import {motion, useInView, useAnimation} from 'framer-motion';
 const Contact = () => {
     useEffect(() => {
-        document.title="SabMedia | Contact";
+        document.title="somali tech | Contact";
     },[]);
     const {innerWidth: Width} = window;
     const ref = useRef();
