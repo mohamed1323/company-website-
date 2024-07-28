@@ -15,7 +15,7 @@ const Features = () => {
   const isInView = useInView(ref);
 
   const mainControlls = useAnimation();
-
+  
   useEffect(() => {
     if (isInView) {
       mainControlls.start("visible");
