@@ -21,6 +21,7 @@ const Features = () => {
       mainControlls.start("visible");
     }
   }, [isInView]);
+  
   return (
     <>
       <div className="w-[70%] h-[2px] bg-gradient-to-r from-blue-500 to-blue-200"></div>
