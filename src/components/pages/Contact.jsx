@@ -10,8 +10,7 @@ const Contact = () => {
     const ref = useRef();
     const isInView = useInView(ref)
     const mainControlls = useAnimation(isInView);
-
-
+    
     useEffect(()=> {
         if(isInView) {
             mainControlls.start("visible")
