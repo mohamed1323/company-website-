@@ -2,7 +2,8 @@
     --first-color: #1E88E5;
     --second-color: #0D47A1;
     --backround-color: #ebebeb;
-  }
+
+}
 body::-webkit-scrollbar {
     width: 10px;
   }
