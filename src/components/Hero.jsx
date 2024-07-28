@@ -26,7 +26,7 @@ function Hero() {
                             <h1 class="sm:text-8xl text-2xl from-blue-400 to-emerald-600 mb-3  xl:mt-20
                             font-bold leading-snug sm:text-[42px] lg:text-[40px] xl:text-[42px]">
                                 
-                                Welcome to <br/>
+                                Welcome  to <br/>
                                 <span className="sm:text-7xl text-6xl xl:my-40 ">
                                  <span className='text-blue-500 cursor-pointer my-40'>Somalia tech</span> <br/>
                                 </span>
