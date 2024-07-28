@@ -39,7 +39,7 @@ function Hero() {
                             <p class="text-gray-500 text-sm my-8 max-w-[480px] sm:text-base">
                                 Welcome, and thank you for taking the time to explore our web development solutions. 
                                 We can assure you that we will elevate your online presence and bring your digital projects to the next level. 
-                                So, fasten your seatbelt and let's embark on this journey to Level UP your web presence!
+                                So,fasten your seatbelt and let's embark on this journey to Level UP your web presence!
                                 
                             </p>
                         </motion.div>
