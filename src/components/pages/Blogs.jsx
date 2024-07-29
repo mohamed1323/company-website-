@@ -22,7 +22,7 @@ const Blogs = () => {
                     variants={{
                       visible: { opacity: 1, y: 0 },
                       hidden: { opacity: 0, y: -75 },
-                }}
+                  }}
                   initial="hidden"
                   animate="visible"
                   transition={{ duration: 0.75, delay: 0.25 }} 
