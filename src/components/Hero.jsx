@@ -28,7 +28,7 @@ function Hero() {
                                 
                                 Welcome  to <br/>
                                 <span className="sm:text-7xl text-6xl xl:my-40 ">
-                                 <span className='text-blue-500 cursor-pointer my-40'>Somali tech</span> <br/>
+                                 <span className='text-blue-500 cursor-pointer my-40'>Somali Daily Tech</span> <br/>
                                 </span>
                                 <span className="sm:text-7xl text-6xl">
                                  
