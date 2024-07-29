@@ -20,7 +20,7 @@ const About = () => {
       }
     }, [isInView]);
     useEffect(() => {
-      document.title="somalia | About";
+      document.title="somali | About";
   },[]);
   /* automatically scroll to the top of the page */
   useEffect(() => {
