@@ -20,7 +20,7 @@ const Footer = () => {
 									className=""
 									/>
 							</div>
-							<span className="self-center text-2xl font-semibold text-blue-500">somali tech</span>
+							<span className="self-center text-2xl font-semibold text-blue-500">Somalia Daily Tech</span>
 						</Link>
 					</div>
 					<div className="col-span-6 text-center md:text-left md:col-span-3">
@@ -57,7 +57,7 @@ const Footer = () => {
 				</div>
 				<div className="grid justify-center pt-6 lg:justify-between">
 					<div className="flex flex-col self-center text-sm text-center md:block lg:col-start-1 md:space-x-6">
-						<span>©2024<span className='text-blue-500'>Mohamed abdulkadir mohamud</span>. All rights reserved.</span>
+						<span>©2024<span className='text-blue-500'> Mohamed abdulkadir mohamud </span>. All rights reserved.</span>
 					</div>
 					<div className="flex justify-center pt-4 space-x-4 lg:pt-0 lg:col-end-13">
 						<Link  to="/" title="Email" className="flex items-center justify-center  rounded-full">
