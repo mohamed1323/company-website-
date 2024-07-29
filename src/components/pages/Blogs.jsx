@@ -7,7 +7,7 @@ import blog3 from "../images/blogs/image-03.jpg";
 import { motion } from "framer-motion";
 const Blogs = () => {
     useEffect(() => {
-        document.title="SabMedia | Blogs";
+        document.title="somali tech| Blogs";
     },[]);
     /* automatically scroll to the top of the page */
     useEffect(() => {
