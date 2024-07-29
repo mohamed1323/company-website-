@@ -13,7 +13,7 @@ import Footer from "../Footer";
 import {useAnimation, useInView, motion } from "framer-motion";
 const Services = () => {
     useEffect(() => {
-        document.title="SabMedia | Services";
+        document.title="Somalia daily tech tech | Services";
     },[]);
 
     const { innerWidth: width, innerHeight: height } = window;
@@ -120,7 +120,7 @@ const Services = () => {
                     <span className="block mb-2 text-lg font-semibold text-gray-500">
                     </span>
                     <h2 className="mb-4 text-3xl font-bold text-blue-500 sm:text-4xl md:text-[40px]">
-                        More Than 10 Years We Provide Services
+                        More Than 5 Years We Provide Services
                         <br className="md:block hidden" />
                         All over the World
                     </h2>
@@ -169,7 +169,7 @@ const Services = () => {
                         >
                         <p className="text-3xl font-semibold text-gray-800">25%</p>
                         <p className="text-base leading-4 xl:mt-4 mt-2 text-gray-600">
-                            Average Performance Increase
+                            Average of Performance Increase
                         </p>
                     </motion.div>
                     <motion.div
