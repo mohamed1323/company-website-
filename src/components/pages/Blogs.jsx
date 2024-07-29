@@ -7,7 +7,7 @@ import blog3 from "../images/blogs/image-03.jpg";
 import { motion } from "framer-motion";
 const Blogs = () => {
     useEffect(() => {
-        document.title="somali tech| Blogs";
+        document.title="Somalia Daily Tech| Blogs";
     },[]);
     /* automatically scroll to the top of the page */
     useEffect(() => {
@@ -59,7 +59,7 @@ const Blogs = () => {
                 </div>
                 <div>
                   <span class="bg-blue-400/80 mb-5 inline-block rounded py-1 px-4 text-center text-xs font-semibold leading-loose text-white">
-                    Oct 22, 2023
+                    july 28, 2024
                   </span>
                   <h3>
                     <a
@@ -94,7 +94,7 @@ const Blogs = () => {
                 </div>
                 <div>
                   <span class="bg-blue-400/80 mb-5 inline-block rounded py-1 px-4 text-center text-xs font-semibold leading-loose text-white">
-                    Mar 29, 2023
+                    june 19, 2024
                   </span>
                   <h3>
                     <a
