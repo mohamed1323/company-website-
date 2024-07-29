@@ -15,13 +15,12 @@ const Features = () => {
   const isInView = useInView(ref);
 
   const mainControlls = useAnimation();
-  
+
   useEffect(() => {
     if (isInView) {
       mainControlls.start("visible");
     }
   }, [isInView]);
-  
   return (
     <>
       <div className="w-[70%] h-[2px] bg-gradient-to-r from-blue-500 to-blue-200"></div>
@@ -60,7 +59,6 @@ const Features = () => {
                           </div>
                         </div>
                         <div className="ml-4">
-                          
                           <h4 className="text-lg font-medium leading-6 text-blue-700">
                             Advanced Algorithmic Solutions
                           </h4>
@@ -80,7 +78,7 @@ const Features = () => {
                         <div className="ml-4">
                           <h4 className="text-lg font-medium leading-6 text-blue-700">
                             Innovative Technology Integration
-                          </h4>                       
+                          </h4>
                           <p className="mt-2 ">
                             Seamlessly integrate cutting-edge technologies like
                             AI, IoT, and cloud computing. Automate tasks,
