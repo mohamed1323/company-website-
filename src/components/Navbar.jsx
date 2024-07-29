@@ -17,7 +17,7 @@ const Navbar = () => {
               className="hidden sm:block sm:w-[35px] sm:-h-[35px] -mt-1"
             />
             <span className="ml-2 mt-0 sm:mt-0 text-blue-500 font-semibold text-xl you">
-              somalia tech
+              Somalia Daily Tech
             </span>
           </Link>
           <div className="flex">
