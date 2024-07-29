@@ -8,7 +8,7 @@ import Review from './Review';
 import Footer from './Footer';
 function Homepage() {
     useEffect(() => {
-      document.title="Somalia | Home";
+      document.title="Somalia Daily Tech | Home";
     },[]);
     /* automatically scroll to the top of the page */
     useEffect(() => {
