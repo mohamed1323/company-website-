@@ -2,7 +2,7 @@
 
 A modern company website built with React, Tailwind CSS designed to showcase your business, services, and portfolio.
 
-[Scroll down to see the images]
+Image results
 
 <img width="950" alt="Screenshot 2024-07-29 225935" src="https://github.com/user-attachments/assets/27ec9b64-3e6b-44f4-8a95-5de9df0c3c80">
 <img width="953" alt="Screenshot 2024-07-29 230111" src="https://github.com/user-attachments/assets/ab501a03-975a-4353-ab0c-a91161247621">
