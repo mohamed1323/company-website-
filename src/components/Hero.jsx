@@ -98,6 +98,10 @@ function Hero() {
                                     alt="hero"
                                     class="max-w-full lg:ml-auto rounded-l-[20%] "
                                 />
+                              {/* ceo<br/> */}
+                                <span className="sm:text-2xl text-2xl xl:my-10 ">
+                                 <span className='text-blue-500 cursor-pointer my-60'>THE CEO/FOUNDER OF SOMALIA DAILY TECH</span> <br/>
+                                </span>
                             </motion.div>
                         </div>
                     </div>
