@@ -4,6 +4,11 @@ A modern company website built with React, Tailwind CSS designed to showcase you
 
 [Scroll down to see the images]
 
+<img width="950" alt="Screenshot 2024-07-29 225935" src="https://github.com/user-attachments/assets/27ec9b64-3e6b-44f4-8a95-5de9df0c3c80">
+<img width="953" alt="Screenshot 2024-07-29 230111" src="https://github.com/user-attachments/assets/ab501a03-975a-4353-ab0c-a91161247621">
+<img width="958" alt="Screenshot 2024-07-29 230038" src="https://github.com/user-attachments/assets/ab4868ab-dbb4-4006-8ccd-46dd3234d2f2">
+<img width="946" alt="Screenshot 2024-07-29 230151" src="https://github.com/user-attachments/assets/a332ab60-f812-4857-86fc-4c52d8e2890a">
+
 ## Features
 
 - Fast development with Vite.
