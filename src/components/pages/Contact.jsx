@@ -4,7 +4,7 @@ import Footer from "../Footer";
 import {motion, useInView, useAnimation} from 'framer-motion';
 const Contact = () => {
     useEffect(() => {
-        document.title="somali tech | Contact";
+        document.title="SabMedia | Contact";
     },[]);
     const {innerWidth: Width} = window;
     const ref = useRef();
@@ -69,7 +69,7 @@ const Contact = () => {
                       </div>
                       <div class="w-full">
                         <h4 class="text-dark mb-1 text-xl font-bold">
-                          Our Location in
+                          Our Location
                         </h4>
                         <p class="text-body-color text-base">
                           mogadishu, somalia
