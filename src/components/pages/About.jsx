@@ -2,9 +2,6 @@ import React, { useEffect, useRef } from "react";
 import Navbar from "../Navbar";
 import Footer from "../Footer";
 import { useAnimation, useInView, motion } from "framer-motion";
-import ayroui from '../images/brands/ayroui.svg';
-import graygrids from '../images/brands/graygrids.svg';
-import uideck from '../images/brands/uideck.svg';
 import SabMedia from '../images/About/SabMedia.png';
 import profile1 from '../images/About/team/profile1.jpg';
 import profile2 from '../images/About/team/profile2.png';
@@ -20,7 +17,7 @@ const About = () => {
       }
     }, [isInView]);
     useEffect(() => {
-      document.title="somali | About";
+      document.title="Somalia Daily Tech| About";
   },[]);
   /* automatically scroll to the top of the page */
   useEffect(() => {
@@ -86,7 +83,7 @@ const About = () => {
                 <h2 className="mb-8 text-3xl font-bold text-dark sm:text-4xl">
                 </h2>
                 <p className="mb-8 text-base text-gray-500">
-                  "At somali tech, we are passionate about crafting exceptional web solutions that drive digital success. 
+                  "At somalian tech, we are passionate about crafting exceptional web solutions that drive digital success. 
                   With a team of dedicated experts, we bring together creativity, innovation, and technical expertise 
                   to create web experiences that leave a lasting impression. Our commitment to delivering cutting-edge websites, 
                   e-commerce platforms, and web applications is matched only by our dedication to our clients. 
