@@ -8,6 +8,7 @@ A modern company website built with React, Tailwind CSS designed to showcase you
 <img width="953" alt="Screenshot 2024-07-29 230111" src="https://github.com/user-attachments/assets/ab501a03-975a-4353-ab0c-a91161247621">
 <img width="958" alt="Screenshot 2024-07-29 230038" src="https://github.com/user-attachments/assets/ab4868ab-dbb4-4006-8ccd-46dd3234d2f2">
 <img width="946" alt="Screenshot 2024-07-29 230151" src="https://github.com/user-attachments/assets/a332ab60-f812-4857-86fc-4c52d8e2890a">
+<img width="950" alt="Screenshot 2024-07-29 230418" src="https://github.com/user-attachments/assets/4588edd5-6eeb-4577-868d-807a34e02f5b">
 
 ## Features
 
