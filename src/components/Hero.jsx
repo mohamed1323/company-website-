@@ -2,9 +2,6 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import {motion} from 'framer-motion';
 import heroImage from './images/heroImage.jpg';
-import ayroui from './images/brands/ayroui.svg';
-import graygrids from './images/brands/graygrids.svg';
-import uideck from './images/brands/uideck.svg';
 function Hero() {
   return (
     <div className="font-poppins overflow-x-hidden bg-gradient-to-br from-blue-100">
@@ -26,9 +23,9 @@ function Hero() {
                             <h1 class="sm:text-8xl text-2xl from-blue-400 to-emerald-600 mb-3  xl:mt-20
                             font-bold leading-snug sm:text-[42px] lg:text-[40px] xl:text-[42px]">
                                 
-                                Welcome  to <br/>
+                                Welcome to <br/>
                                 <span className="sm:text-7xl text-6xl xl:my-40 ">
-                                 <span className='text-blue-500 cursor-pointer my-40'>Somali Daily Tech</span> <br/>
+                                 <span className='text-blue-500 cursor-pointer my-40'>Somalia Daily Tech</span> <br/>
                                 </span>
                                 <span className="sm:text-7xl text-6xl">
                                  
@@ -39,7 +36,7 @@ function Hero() {
                             <p class="text-gray-500 text-sm my-8 max-w-[480px] sm:text-base">
                                 Welcome, and thank you for taking the time to explore our web development solutions. 
                                 We can assure you that we will elevate your online presence and bring your digital projects to the next level. 
-                                So,fasten your seatbelt and let's embark on this journey to Level UP your web presence!
+                                So, fasten your seatbelt and let's embark on this journey to Level UP your web presence!
                                 
                             </p>
                         </motion.div>
@@ -94,11 +91,11 @@ function Hero() {
                                 class="relative z-10 inline-block pt-11 lg:pt-0 mt-6"
                                 >
                                 <img
-                                   src={heroImage}
+                                    src={heroImage}
                                     alt="hero"
                                     class="max-w-full lg:ml-auto rounded-l-[20%] "
                                 />
-                              {/* ceo<br/> */}
+                                 {/* ceo<br/> */}
                                 <span className="sm:text-2xl text-2xl xl:my-10 ">
                                  <span className='text-blue-500 cursor-pointer my-60'>THE CEO/FOUNDER OF SOMALIA DAILY TECH</span> <br/>
                                 </span>
