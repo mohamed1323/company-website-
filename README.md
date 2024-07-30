@@ -38,7 +38,7 @@ To deploy your website, build the project with `npm run build` and host the gene
 
 ## About Me
 
-I'm a passionate web developer dedicated to crafting exceptional websites and web applications. If you're interested in my services, feel free to explore my portfolio to see some of my work and learn more about what I can offer.
+I'm a FREELANCER AND Entrepreneur web developer dedicated to crafting exceptional websites and web applications. If you're interested in my services, feel free to explore my portfolio to see some of my work and learn more about what I can offer.
 ---
 
 For questions or inquiries, please contact me at [mohaamiin15@gmail.com].
