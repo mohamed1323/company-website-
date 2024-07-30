@@ -1,4 +1,4 @@
-# Company Website [  som tech ]
+# Company Website [  Somalia Daily Tech ]
 
 A modern company website built with React, Tailwind CSS designed to showcase your business, services, and portfolio.
 
