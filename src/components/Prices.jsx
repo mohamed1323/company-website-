@@ -117,7 +117,7 @@ const Prices = () => {
                   <Card
                     image={<FcBarChart style={{ fontSize: '5rem' }}/>}
                     Package={"Basic Package"}
-                    Price={"$1500"}
+                    Price={"$500"}
                     Feature1={"Modern Website Design"}
                     Feature2={"Mobile Responsiveness"}
                     Feature3={"Basic SEO Optimization"}
@@ -147,7 +147,7 @@ const Prices = () => {
                   <Card
                     image={<FcMindMap style={{ fontSize: '5rem' }}/>}
                     Package={"Standard Package"}
-                    Price={"$1500"}
+                    Price={"$900"}
                     Feature1={"Custom Web Development"}
                     Feature2={"Advanced SEO Optimization"}
                     Feature3={"E-commerce Integration"}
@@ -180,7 +180,7 @@ const Prices = () => {
                   <Card
                     image={<FcFlowChart style={{ fontSize: '5rem' }}/>}
                     Package={"Enterprise Package"}
-                    Price={"$2500"}
+                    Price={"$1500"}
                     Feature1={"Bespoke Web Solutions"}
                     Feature2={"SEO & Content Strategy"}
                     Feature3={"E-commerce Development"}
