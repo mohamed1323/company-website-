@@ -1,6 +1,6 @@
 # Company Website [  Somalia Daily Tech ]
 
-A modern company website built with React, Tailwind CSS designed to showcase your business, services, and portfolio.
+A modern company website built with React, Tailwind CSS designed to showcase your business, services, and Blogs.
 
 Image results
 
